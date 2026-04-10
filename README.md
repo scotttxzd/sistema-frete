@@ -204,7 +204,7 @@ Para problemas ou dúvidas:
 
 ---
 
-**Desenvolvido com ❤️ usando v0 by Vercel**
+**Desenvolvido com ❤️**
 =======
 # sistema-frete
 >>>>>>> 611d338c4fb7a4ef4d90b72f76a9a2396c49c2d3
