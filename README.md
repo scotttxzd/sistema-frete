@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TransportLog - Sistema de Gestão de Transportadora
 
 TransportLog é um sistema completo de gestão para empresas de transportadora de cargas. Desenvolvido com Next.js 16 e Supabase, oferece uma solução moderna e intuitiva para controlar fretes, motoristas, veículos, clientes e análises financeiras.
@@ -204,3 +205,6 @@ Para problemas ou dúvidas:
 ---
 
 **Desenvolvido com ❤️ usando v0 by Vercel**
+=======
+# sistema-frete
+>>>>>>> 611d338c4fb7a4ef4d90b72f76a9a2396c49c2d3
